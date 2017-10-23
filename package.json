@@ -9,6 +9,7 @@
   },
   "license": "BSD-2-Clause",
   "dependencies": {
+    "lodash": "^4.17.4",
     "mqttsn-packet": "0.0.2",
     "noble": ">=1.6.0",
     "prettyjson": "^1.2.1"
